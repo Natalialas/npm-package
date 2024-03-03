@@ -8,5 +8,4 @@ const randomID = (idLength) => {
     return id;
 }
 
-
 module.exports = randomID;
